@@ -1,16 +1,14 @@
-## Hi there 👋
+# 个人简介
+😈😈😈木嘿嘿嘿嘿嘿嘿嘿嘿嘿嘿
 
-<!--
-**lyz5d/lyz5d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我叫刘雨泽，2025级燕山大学网络信息协会运维部成员
 
-Here are some ideas to get you started:
+## 个人特点
+1. 喜欢小猫
+2. 喜欢玩电脑
+3. 不知道写什么了
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 珍贵图片
+![我的大头照](./me.jpg)
+
+![与好友的合照](./class.jpg)
